@@ -50,6 +50,10 @@ a:not([class]) {
   text-decoration-skip-ink: auto;
   color: currentColor;
 }
+a {
+   text-decoration: none; 
+
+}
 
 ol, ul {
   list-style: none;
